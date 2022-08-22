@@ -1,2 +1,2 @@
 # Machine-Learning
-Several introductory Machine Learning projects.
+Several introductory Machine Learning projects, where we code fundamental ML algorithms from scratch.
